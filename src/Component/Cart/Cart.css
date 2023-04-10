@@ -1,17 +1,33 @@
-
-.cart h2{
+.cart h2 {
 
     text-align: center;
 }
 
-.cart p{
+.cart p {
     margin-left: 25px;
     margin-top: 50px;
 }
 
-.cart h3{
+.cart h3 {
     margin-left: 25px;
     margin-top: 30px;
+}
+
+.btn-clear-cart {
+
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    width: 232px;
+    height: 48px;
+    align-items: center;
+    background: #FF3030;
+    border-radius: 4px;
+    color: white;
+    border: none;
+    margin-left: 25px ;
+    
+
 }
 
 
